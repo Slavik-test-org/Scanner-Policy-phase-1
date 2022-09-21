@@ -49,8 +49,8 @@
     "history": "^5.0.1",
     "i18next": "^20.6.1",
     "i18next-browser-languagedetector": "^6.1.2",
-    "moment": "2.29.5", //slava fixed
-    "mongoose": "6.4.7",  //slava fixed
+    "moment": "2.29.5",
+    "mongoose": "6.4.7",
     "nestjs-i18n": "^8.1.6",
     "nodemailer": "^6.6.3",
     "nodemailer-sendgrid-transport": "^0.2.0",
@@ -82,7 +82,6 @@
   "devDependencies": {},
   "jest": {
     "moduleFileExtensions": [
-      mongoose
       "js",
       "json",
       "ts"
